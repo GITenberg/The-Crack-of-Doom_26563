@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32100'
     url: http://www.gutenberg.org/2009/agents/32100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26563#The-Crack-of-Doom
 gutenberg_issued: '2008-09-08'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,27 @@
+_repo: The-Crack-of-Doom_26563
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cromie, Robert
+    birthdate: 1856
+    deathdate: 1907
+    gutenberg_agent_id: '32100'
+    url: http://www.gutenberg.org/2009/agents/32100
+description: ''
+gutenberg_issued: '2008-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcc 'PR'
+title: The Crack of Doom
+url: http://www.gutenberg.org/ebooks/26563
